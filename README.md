@@ -18,6 +18,7 @@ Copy the link in the browser address bar
 
 ## Usage:
 
+##### Demo Video
 https://drive.google.com/file/d/1waf1sTuvLycQ-yLayba_JhE124F1knX7/view
 
 ![Image of Employee Directory](assets/img/employeeDir.PNG)
