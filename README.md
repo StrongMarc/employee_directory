@@ -20,7 +20,7 @@ Copy the link in the browser address bar
 
 https://drive.google.com/file/d/1waf1sTuvLycQ-yLayba_JhE124F1knX7/view
 
-![Image of Employee Directory](public/assets/img/employeeDir.PNG)
+![Image of Employee Directory](assets/img/employeeDir.PNG)
 
 ## License:
 ![License](https://img.shields.io/badge/License-MIT-Blue)
